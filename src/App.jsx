@@ -77,7 +77,7 @@ const HomePage = () => {
         style={{ backgroundImage: `url(${Bacground})` }}
       >
         <div className="absolute inset-0 bg-black opacity-50 rounded-xl"></div>
-        <div className="relative z-50 w-full max-w-[75rem] flex flex-col md:flex-row items-center justify-between px-4 md:px-0">
+        <div className="relative z-50 w-full max-w-[75rem] flex flex-col md:flex-row items-center justify-between px-4 md:px-20">
           <div className="text-white flex flex-col justify-end md:pr-4">
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-[8rem] xl:text-[12rem] font-bold leading-tight uppercase tracking-wider mb-4" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.7)' }}>
               MY FIELD STUDY<br />EXPERIENCES
